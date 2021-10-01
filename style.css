@@ -1,0 +1,23 @@
+body{
+    background-color: aliceblue;
+    margin: 30px 25px;
+    border: 10px solid green;
+    padding: 24px;
+}
+h1{
+    background-color: khaki;
+    padding: 20px;
+    font-size: 30px;
+    color: indigo;
+    border: 10px dotted red;
+    margin: 10px 12px 15px 18px;
+}
+article{
+    background-color: olive;
+    font-size: 24px;
+    font-weight: 300;
+    padding: 20px;
+    border: 10px double blue;
+    margin: 15px 18px 22px 25px;
+
+}
